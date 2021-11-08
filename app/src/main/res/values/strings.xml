@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FoodOrderApp</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoidGlkaW1hdHNvIiwiYSI6ImNrcnVlNnYyYjFiNHgydnFjZHEzNnZwODgifQ.rLWHmwP4NfxLDC4g6qyOtw</string>
+</resources>
